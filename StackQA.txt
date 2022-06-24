@@ -1,1 +1,7 @@
+NOTE:
+The index.html file is not used anywhere as the 'Resume link' directly refers to the Resume itself and not through the indexfile
+but we cannot delete the index as an index file is required for GithubPages.
+
+Tutorial:
 https://stackoverflow.com/questions/30745981/opening-pdf-in-a-browser-with-github-pages
+check leading answer by ruifgmonteiro
